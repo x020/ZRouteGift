@@ -26,3 +26,5 @@ ZR26PLAY
 ZRRKR617
 ZRDAD26
 ZRR100S
+
+Источник: https://discord.gg/XPWxSA9fC 
