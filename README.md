@@ -31,6 +31,8 @@ ZR26PLAY
 ZRRKR617
 ZRDAD26
 ZRR100S
+WELCOME26
+LOUNGE619
 
 Источник: https://discord.gg/XPWxSA9fC 
 
