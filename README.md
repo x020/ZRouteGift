@@ -32,7 +32,8 @@ ZRR100S
 
 **Списки серверов:**
 
-1-36
+##1-36
+
 <color=#80AF4C>[<link=500&500&1>S1</link>] [<link=500&500&2>S2</link>] [<link=500&500&3>S3</link>] [<link=500&500&4>S4</link>]</color><BR><color=#4C80AF>[<link=500&500&5>S5</link>] [<link=500&500&6>S6</link>] [<link=500&500&7>S7</link>] [<link=500&500&12>S12</link>]</color><BR><color=#AF4C4C>[<link=500&500&17>S17</link>] [<link=500&500&18>S18</link>] [<link=500&500&19>S19</link>] [<link=500&500&20>S20</link>]</color><BR><color=#AFAF4C>[<link=500&500&21>S21</link>] [<link=500&500&22>S22</link>] [<link=500&500&23>S23</link>] [<link=500&500&24>S24</link>]</color><BR><color=#80AF4C>[<link=500&500&25>S25</link>] [<link=500&500&26>S26</link>] [<link=500&500&27>S27</link>] [<link=500&500&28>S28</link>]</color><BR><color=#4C80AF>[<link=500&500&29>S29</link>] [<link=500&500&30>S30</link>] [<link=500&500&31>S31</link>] [<link=500&500&32>S32</link>]</color><BR><color=#AF4C4C>[<link=500&500&33>S33</link>] [<link=500&500&34>S34</link>] [<link=500&500&35>S35</link>] [<link=500&500&36>S36</link>]
 
 37-63
