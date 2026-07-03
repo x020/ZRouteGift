@@ -1,6 +1,6 @@
 D4ve [S1]
 
-Если вы устали от игры или, наоборот, хотите начать сразу с прокачанной базы — пишите мне на 4forum.mail@gmail.com. Постараюсь свести одних желающих с другими, чтобы все остались в плюсе :)
+Если вы устали от игры или, наоборот, хотите начать сразу с прокачанной базы - пишите мне на 4forum.mail@gmail.com. Постараюсь свести одних желающих с другими, чтобы все остались в плюсе :)
 
 If you're getting tired of the game or want to start right away with a leveled-up base, email me at 4forum.mail@gmail.com. I'll try to connect players with each other so it's a win-win for everyone :)
 
