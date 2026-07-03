@@ -28,12 +28,14 @@ ZRRKR617
 ZRDAD26
 ZRR100S
 
+Источник: https://discord.gg/XPWxSA9fC 
+
 03.07.2026
 
 ZRSURV26
 VK55KHLC
 
-Источник: https://discord.gg/XPWxSA9fC 
+
 
 **Списки серверов:**
 
